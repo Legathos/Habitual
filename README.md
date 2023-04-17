@@ -3,6 +3,8 @@ Habit Tracker
 
 This is a small project that I am working on.
 
+Check master branch for the code.
+
 
 Update 17.04.2023
 
